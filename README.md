@@ -44,7 +44,6 @@ npm run server
 ## Resources
 * [grpc](https://grpc.io/grpc/node) - Node.js gRPC library
 * [mali](https://mali.js.org) - A minimalistic gRPC microservice framework
-* [article](https://auth0.com/blog/creating-a-node-grpc-service-using-mali)
 
 ## License
 [MIT](https://opensource.org/licenses/MIT)
